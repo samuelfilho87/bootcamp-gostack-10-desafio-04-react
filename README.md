@@ -79,4 +79,4 @@ data.comments.map(comment => <Comment key={comment.id} data={comment} />);
 ```
 
 ## Resultado
-![](/prints/print-1.jpg)
+![](/print/print-1.jpg)
