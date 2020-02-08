@@ -1,0 +1,22 @@
+.comment {
+  display: flex;
+  padding: 10px 20px;
+}
+
+.comment img {
+  width: 28px;
+  height: 28px;
+  margin-right: 10px;
+
+  border-radius: 50%;
+}
+
+.comment p {
+  padding: 10px 15px;
+  font-size: 13px;
+  line-height: 20px;
+  color: #3E3E3E;
+
+  background: #EEEEEE;
+  border-radius: 20px;
+}
