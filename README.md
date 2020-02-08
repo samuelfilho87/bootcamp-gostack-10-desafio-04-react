@@ -16,7 +16,7 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Tela da aplicação
 
-![Facebook](.github/facebook.png)
+![Facebook](https://github.com/Rocketseat/bootcamp-gostack-desafio-04/raw/master/.github/facebook.png)
 
 O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
 
